@@ -1,7 +1,6 @@
 # UX-UI
 UX/UI do projeto
 
- - ### [link 1](http://www.example.com/)
- - ### [link 2](http://www.example.com/)
- - ### [link 3](http://www.example.com/)
- - ### [link 4](http://www.example.com/)
+ - ### [UX Site](https://bit.ly/40x7JcI)
+ - ### [UX App](https://bit.ly/3Qx3byn)
+
